@@ -1,1 +1,1 @@
-1. Version Control with Git
+1. Complete Ruby on Rails Developer
